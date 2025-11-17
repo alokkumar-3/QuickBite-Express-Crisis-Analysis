@@ -1,10 +1,10 @@
-S – Situation
+# **S – Situation**
 
 A major food-delivery platform faced a severe service crisis that disrupted customer experience, slowed operations, and reduced revenue.
 The company had large, scattered datasets—orders, customers, delivery partners, ratings, cancellations, and financials—with no unified understanding of how the crisis impacted different parts of the business.
 I was responsible for conducting a full-funnel analysis to uncover the root causes, quantify the business impact, and highlight changes in customer behavior.
 
-T – Task
+# **T – Task**
 
 My goals were to:
 
@@ -20,7 +20,7 @@ Perform hypothesis testing (t-tests) to statistically validate operational assum
 
 Deliver clear, actionable insights the business could use to improve service recovery
 
-A – Action
+# **A – Action**
 1. Built a clean, integrated data model
 
 Ingested datasets from orders, customers, partners, reviews, and finance
@@ -81,7 +81,7 @@ High-value orders
 
 Customers shifted toward mid-priced meals and reduced discretionary spending
 
-R – Result
+# **R – Result**
 
 The analysis delivered a clear narrative of the crisis across the entire business:
 
